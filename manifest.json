@@ -1,0 +1,35 @@
+{
+  "display_name": "JavaScript, jest",
+  "image_name": "cyberdojofoundation/javascript_node_jest:98eb16d",
+  "filename_extension": [
+    ".js"
+  ],
+  "max_seconds": 10,
+  "tab_size": 2,
+  "exercise": "100 doors",
+  "theme": "light",
+  "colour": "on",
+  "predict": "off",
+  "revert_red": "off",
+  "revert_amber": "off",
+  "revert_green": "off",
+  "version": 2,
+  "created": [
+    2023,
+    1,
+    16,
+    14,
+    35,
+    11,
+    832441
+  ],
+  "highlight_filenames": [
+
+  ],
+  "progress_regexs": [
+
+  ],
+  "group_id": "kM2n6W",
+  "group_index": 10,
+  "id": "rzA65w"
+}
